@@ -11,6 +11,7 @@ You can draw digits (0–9) on a canvas, and the model will predict the digit in
 ## 📂 Project Structure  
 
 MNIST/
+
 │── README.md
 
 │── requirements.txt
