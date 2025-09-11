@@ -99,3 +99,21 @@ This will open a browser window where you can draw digits and get predictions in
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[📑 View the Presentation](https://drive.google.com/file/d/1OIF8jTp7xhPs1VIgarvbuD3XbYOlPLKL/view?usp=sharing)
+
+
+
